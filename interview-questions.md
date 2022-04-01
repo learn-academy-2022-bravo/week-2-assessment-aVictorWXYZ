@@ -8,7 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is the difference between a parameter and an argument?
 
-  Your answer:
+  Your answer: A parameter is information you feed into a method. While an argument is the result of a method.
 
   Researched answer:
 
@@ -16,7 +16,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. The JavaScript built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
 
-  Your answer:
+  Your answer:.map() takes the length of the array it is .map()ing and runs what follows on all indexes of said array. I can't specify more than that without looking it up.
 
   Researched answer:
 
@@ -24,7 +24,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is the difference between map and filter?
 
-  Your answer:
+  Your answer:map runs across each and every index of an array while ending up with the same number of indexes in the array. filter uses the method to find what to keep and places that into a new array if it meets the conditions.
 
   Researched answer:
 
@@ -32,7 +32,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. What is the difference between a function and a method?
 
-  Your answer:
+  Your answer:a method is a prebuilt function that has been added to the version of code you are working on.
 
   Researched answer:
 
@@ -40,7 +40,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 5. What is object destructuring?
 
-  Your answer:
+  Your answer: Object destructuring is when you place the information across arrays instead of individual variables.
 
   Researched answer:
 
@@ -48,7 +48,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. STRETCH: What is hoisting in JavaScript?
 
-  Your answer:
+  Your answer: I believe it is when you include a link between files such as with HTML and JavaScript documents.
 
   Researched answer:
 
