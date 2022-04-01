@@ -67,3 +67,23 @@ const vowelTester3 = "challenges"
 
 
 // b) Create the function that makes the test pass.
+
+
+
+
+
+
+
+
+
+
+// a describe method that lists the name of the function OR naming of the particular test.
+describe("hello", () => {
+
+    // a test/it method, nested within the describe block, that in plain words, describes that the function does.
+    it("returns a string that says hi", () => {
+  
+      //an expect method, nested within the test block, calling on the hello() function, followed by the .toEqual() matcher that checks the expected output of the function return.
+      expect(hello()).toEqual("hi")
+    })
+  })
