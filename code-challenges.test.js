@@ -12,68 +12,19 @@
 
 // --------------------INSTRUCTOR EXAMPLE: Create a function that takes in an array of numbers and returns an array with all the numbers multipled by 3.
 
-//I'll use the describe method that calls on any array given
-//Use the .map to process all numbers in the array
-//I'll use the * to multiply the numbers by 3
-//return the new values in an array
-
-// describe("arrayMul3", (array) => {
-//   EnteredInput: [6, 7, 8, 9, 10]
-//   ExpectedOutput: [18, 21, 24, 27, 30]
-//   it(array.map(value => value * 3),
-//     expect(arrayMul3(array)).toEqual(ExpectedOutput)
-//   )
-// })
-
-// let arrayMul3 = numbersArray1.map(value => value * 3)
-// console.log(testA1)
-
 // a) Create a test with expect statements for each of the variables provided.
+
 const numbersArray1 = [6, 7, 8, 9, 10]
+// Expected output: [18, 21, 24, 27, 30]
 const numbersArray2 = [24, 27, 30, 33, 36]
-
-describe("multBy3",() => {
-  it("takes in an array of numbers and returns an array with all the numbers multipled by 3.",() => {
-    expect (multBy3(numbersArray1)).toEqual([18, 21, 24, 27, 30])
-    expect (multBy3(numbersArray2)).toEqual([72, 81, 90, 99, 108])
-  })
-})
-
-
-
+// Expected output: [72, 81, 90, 99, 108]
 
 
 // b) Create the function that makes the test pass.
 
-var multBy3 = (numbersArray1) => {
-  return numbersArray1.map(value => value * 3)
-}
-var multBy3 = (numbersArray2) => {
-return numbersArray2.map(value => value * 3)
-}
 
 
 // --------------------1) Create a function that takes a number as an argument and decides if the number is evenly divisble by three or not.
-const numberEr = 6
-
-describe("DivBy3",() => {
-  it("takes in a number and returns if the number is evenly divisble by three or not.",() => {
-      if((divBy3(numberEr)) % 3 === 0){
-      return "number is evenly divisible by three"
-    }else{ 
-      return "number is not evenly divisible by three"
-    }
-  })
-})
-
-var DivBy3 = () => {
-  if(numberEr % 3 === 0){
-    return "number is evenly divisible by three"
-  }else{ 
-    return "number is not evenly divisible by three"
-
-  }
-}
 
 // a) Create a test with expect statements for each of the variables provided.
 
@@ -116,13 +67,3 @@ const vowelTester3 = "challenges"
 
 
 // b) Create the function that makes the test pass.
-
-
-
-
-
-
-
-
-
-
