@@ -54,11 +54,11 @@ return numbersArray2.map(value => value * 3)
 
 
 // --------------------1) Create a function that takes a number as an argument and decides if the number is evenly divisble by three or not.
+const numberEr = 6
 
 describe("DivBy3",() => {
   it("takes in a number and returns if the number is evenly divisble by three or not.",() => {
-       const numberEr = 6
-    expect if((divBy3(numberEr)) % 3 === 0){
+      if((divBy3(numberEr)) % 3 === 0){
       return "number is evenly divisible by three"
     }else{ 
       return "number is not evenly divisible by three"
