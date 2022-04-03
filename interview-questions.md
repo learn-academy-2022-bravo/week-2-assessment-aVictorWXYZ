@@ -10,7 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A parameter is information you feed into a method. While an argument is the result of a method.
 
-  Researched answer:
+  Researched answer: I turns out they are the same thing. An argument is information while a parameter mearly moving the argument from place to place
 
 
 
@@ -18,7 +18,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:.map() takes the length of the array it is .map()ing and runs what follows on all indexes of said array. I can't specify more than that without looking it up.
 
-  Researched answer:
+  Researched answer: value, index, array at least one is required while any more are only if needed. I'm unsure if you can have more than 3.
 
 
 
@@ -26,7 +26,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:map runs across each and every index of an array while ending up with the same number of indexes in the array. filter uses the method to find what to keep and places that into a new array if it meets the conditions.
 
-  Researched answer:
+  Researched answer: .map iterates through an array and returns a new array of the same number of indexes. while a .filter functions through an array and returns a new array with only those values that fulfill the stated condition.
 
 
 
