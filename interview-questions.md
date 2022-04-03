@@ -34,7 +34,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:a method is a prebuilt function that has been added to the version of code you are working on.
 
-  Researched answer:
+  Researched answer: A function is a order of operations run when called to execute. An object is simply a function beloning to an object.
 
 
 
@@ -42,7 +42,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Object destructuring is when you place the information across arrays instead of individual variables.
 
-  Researched answer:
+  Researched answer: Object destructuring is utilizing the information stored in an array to make quick recallable variables
 
 
 
@@ -50,7 +50,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: I believe it is when you include a link between files such as with HTML and JavaScript documents.
 
-  Researched answer:
+  Researched answer: Hoisting is when you ensure information is properly ordered in the top down fashion.
 
 
 
@@ -58,12 +58,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Class Inheritance:
+1. Class Inheritance: Class Inheritance is when a class takes on the properties of another class
 
-2. React:
+2. React: used for single page ui
 
-3. React state:
+3. React state: a way to store information
 
-4. React lifecycle methods:
+4. React lifecycle methods: The three phases are: Mounting, Updating, and Unmounting
 
-5. DOM:
+5. DOM:actions that you can perform on objects (elements)
